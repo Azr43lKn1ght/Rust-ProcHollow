@@ -58,3 +58,14 @@ Use it in the command line :
 Process-Hollowing.exe <source image>
 ```
 This can be integrated with reading the file directly in the code.
+
+## References :
+
+https://github.com/adamhlt/Process-Hollowing
+https://github.com/m0n0ph1/Process-Hollowing
+https://chuongdong.com/reverse%20engineering/2020/08/15/PE-Parser/
+https://chuongdong.com/malware%20development/2020/08/19/Process-Hollowing/
+
+## :page_facing_up: License :
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
